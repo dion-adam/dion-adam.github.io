@@ -2,7 +2,7 @@
 title: "Sparse Computations in Deep Learning Inference"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publications/2025-12-02-Sparse-Computations-1.md
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-12-02
 venue: 'GitHub Journal of Bugs'
