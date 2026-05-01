@@ -6,6 +6,4 @@ date: 2025-12-02
 paperurl: 'https://arxiv.org/pdf/2512.02550'
 ---
 
-<i>arXiv preprint</i>
-
-Ioanna Tasou, Panagiotis Mpakos, Angelos Vlachos, <b>Dionysios Adamopoulos</b>, Georgios Giannakopoulos, Konstantinos Katsikopoulos, Ioannis Karaparisis, Maria Lazou, Spyridon Loukovitis, Areti Mei, Anastasia Poulopoulou, Angeliki Dimitriou, Giorgos Filandrianos, Dimitrios Galanopoulos, Vasileios Karampinis, Ilias Mitsouras, Nikolaos Spanos, Petros Anastasiadis, Ioannis Doudalis, Konstantinos Nikas, George Retsinas, Paraskevi Tzouveli, Christina Giannoula, Nectarios Koziris, Nikela Papadopoulou, Giorgos Stamou, Athanasios Voulodimos, Georgios Goumas. Sparse Computations in Deep Learning Inference. In <i>arXiv</i>, 2025.
+<p><i>arXiv preprint</i></p> <p>Ioanna Tasou, Panagiotis Mpakos, Angelos Vlachos, <b>Dionysios Adamopoulos</b>, Georgios Giannakopoulos, Konstantinos Katsikopoulos, Ioannis Karaparisis, Maria Lazou, Spyridon Loukovitis, Areti Mei, Anastasia Poulopoulou, Angeliki Dimitriou, Giorgos Filandrianos, Dimitrios Galanopoulos, Vasileios Karampinis, Ilias Mitsouras, Nikolaos Spanos, Petros Anastasiadis, Ioannis Doudalis, Konstantinos Nikas, George Retsinas, Paraskevi Tzouveli, Christina Giannoula, Nectarios Koziris, Nikela Papadopoulou, Giorgos Stamou, Athanasios Voulodimos, Georgios Goumas. Sparse Computations in Deep Learning Inference. In <i>arXiv</i>, 2025.</p> 
